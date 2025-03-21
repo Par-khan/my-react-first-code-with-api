@@ -1,0 +1,27 @@
+.card {
+  border: 1px solid #000;
+  border-radius: 8px;
+  max-width: 250px;
+  overflow: hidden;
+}
+
+.card img {
+  background-color: #000;
+  width: 100%;
+}
+
+.card h3, .card p {
+  margin: 6px 0;
+}
+
+.card-content {
+  padding: 0 8px;
+}
+
+.container {
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 14px;
+  display: flex;
+}
+/*# sourceMappingURL=166 render multipale element 08.aa436662.css.map */
